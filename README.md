@@ -8,7 +8,7 @@
 
 **Option-only baselines for agent benchmarks. The premise is a joke. The measurements are real.**
 
-[![Tests](https://github.com/ya-way/CSIEE/actions/workflows/ci.yml/badge.svg)](https://github.com/ya-way/CSIEE/actions/workflows/ci.yml) [![Python 3.9+](assets/python-badge.svg)](pyproject.toml) [![MIT license](assets/license-badge.svg)](LICENSE)
+[![Tests](https://github.com/shuotong-song/CSIEE/actions/workflows/ci.yml/badge.svg)](https://github.com/shuotong-song/CSIEE/actions/workflows/ci.yml) [![Python 3.9+](assets/python-badge.svg)](pyproject.toml) [![MIT license](assets/license-badge.svg)](LICENSE)
 
 [**The results**](#report-card) &nbsp; / &nbsp; [**The classmates**](#meet-the-class) &nbsp; / &nbsp; [**The ten exams**](#ten-exams-three-students-no-studying) &nbsp; / &nbsp; [**Run it yourself**](#run-it)
 
@@ -499,7 +499,7 @@ Scientific research MCQs · answer accuracy. Paper: agents with paper-search too
 Python **3.9+**. No runtime dependencies. No API key. No motivational speech.
 
 ```bash
-git clone https://github.com/ya-way/CSIEE.git
+git clone https://github.com/shuotong-song/CSIEE.git
 cd CSIEE
 python -m pip install .
 
@@ -578,7 +578,7 @@ Found another shortcut? Bring a rule, a pinned dataset and the embarrassing resu
 | Check every result, including weak signals | [Full reports and screening record](results/classmates/README.md) |
 | Audit what was included and excluded | [Screening ledger](docs/screening.md) · [Methods](docs/methodology.md) |
 | Reuse the figures | [PNG / SVG gallery & sources](docs/benchmark-comparisons.md) |
-| Report a problem or propose an experiment | [Open an issue](https://github.com/ya-way/CSIEE/issues/new) |
+| Report a problem or propose an experiment | [Open an issue](https://github.com/shuotong-song/CSIEE/issues/new) |
 
 Original code is [MIT-licensed](LICENSE). Upstream datasets retain their own terms; raw benchmark content is not committed. The [illustration and original vector artwork](assets/README.md) belong to this project's visual identity.
 
